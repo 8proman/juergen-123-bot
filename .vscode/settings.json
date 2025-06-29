@@ -1,0 +1,15 @@
+{
+  "editor.formatOnSave": true,
+  "python.formatting.provider": "black"
+}
+// This file is used to configure VS Code settings for the project.
+// It includes settings for the editor and Python formatting.git add .vscode/settings.json
+git commit -m "🧼 Code-Formatierung mit Black aktiviert"
+git push
+// The settings are applied globally to the project and will help maintain consistent code style.
+// The `editor.formatOnSave` setting ensures that the code is automatically formatted when saved.
+git add .vscode/settings.json
+git commit -m "🧼 Format-on-save mit Black aktiviert (VS Code Settings)"
+git push
+// This commit message indicates that the VS Code settings have been updated to enable format-on-save using Black.
+// The settings are applied globally to the project and will help maintain consistent code style.
