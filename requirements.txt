@@ -3,3 +3,4 @@ pandas
 backtrader
 flask
 requests
+matplotlib
